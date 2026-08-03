@@ -19,6 +19,7 @@ Timer 是一款面向 Windows 用户的应用使用时长统计工具。它不�
 - 提供浅色、深色及多套彩色主题，并支持自定义区域颜色
 - 支持开机启动、关闭后托盘计时、托盘提示和启动后隐藏
 - 支持 CSV 数据导出
+<img width="1386" height="813" alt="image" src="https://github.com/user-attachments/assets/966a2249-471f-4d91-951c-08991a5e45ba" />
 
 ## 系统要求
 
