@@ -20,6 +20,8 @@ Timer 是一款面向 Windows 用户的应用使用时长统计工具。它不�
 - 支持开机启动、关闭后托盘计时、托盘提示和启动后隐藏
 - 支持 CSV 数据导出
 <img width="1386" height="813" alt="image" src="https://github.com/user-attachments/assets/966a2249-471f-4d91-951c-08991a5e45ba" />
+<img width="1386" height="813" alt="image" src="https://github.com/user-attachments/assets/60ddf1b0-a77f-4975-a02b-0dc236067311" />
+<img width="1386" height="813" alt="image" src="https://github.com/user-attachments/assets/dd79ce90-366f-4785-b527-480440eac73a" />
 
 ## 系统要求
 
